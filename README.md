@@ -1,7 +1,17 @@
-### Hi there 👋
+# Hi there  
+<br /><br />
+
+<br />
+<a href="https://github.com/hassanchajai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanchajai&layout=compact&theme=synthwave" alt="Hassan's most used languages" />
+</a>
+<a href="https://github.com/hassanchajai/">
+  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=hassanchajai&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="Hassan's Stats" />
+</a>
+
 
 <!--
-**hassanchajai/hassanchajai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0x1e0000/0x1e0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
