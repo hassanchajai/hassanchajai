@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanchajai&layout=compact&theme=synthwave" alt="Hassan's most used languages" />
 </a>
 
-
+<a href="https://app.daily.dev/hassanchajaii"><img src="https://api.daily.dev/devcards/5afa0395e2334b4aa6900ef57676ffd9.png?r=a90" width="400" alt="hassan chajaii's Dev Card"/></a>
 <!--
 **0x1e0000/0x1e0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
